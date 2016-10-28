@@ -1,7 +1,7 @@
 # Jarrett Baugh
-Software Developer.
+I love to solve problems and learn new things. I enjoy learning new programming languages and challenging myself. I'm interested in fault tolerance and high scalability architecture.
 
-### Skills
+### Development Skills
 - Ruby (6 years)
   - Rails (3 and 4)
   - RSpec, Capybara, Cucumber
