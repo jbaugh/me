@@ -20,19 +20,13 @@ Software Developer.
 - Python (2 years)
 - Go (1 year)
 - PHP (1 year)
-
-
 - MySQL (5 years)
 - PostgreSQL (2 years)
 - Redis (3 years)
 - Memcached (1 year)
 - ETS (1 year)
-
-
 - Apache
 - nginx
-
-
 - Git / Github
 
 ### Professional Experience
