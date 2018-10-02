@@ -2,7 +2,7 @@
 I love to solve problems and learn new things. I enjoy learning new programming languages and challenging myself. I'm especially interested in fault tolerance and high scalability architecture.
 
 ### Technical Skills
-**Languages:** Ruby, Javascript, C++, C, Erlang, Java, Python, Go, PHP, Lua
+**Languages:** Ruby, Go, Elixir, Javascript, Lua, Erlang, Python
 
 **Web:** Rails, HTML/CSS/Sass, Rack, Sinatra, Node.js, React, Angular
 
