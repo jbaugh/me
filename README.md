@@ -2,19 +2,19 @@
 I love to solve problems and learn new things. I enjoy learning new programming languages and challenging myself. I'm especially interested in fault tolerance and high scalability architecture.
 
 ### Technical Skills
-**Languages:** Ruby, Go, Elixir, Javascript, Lua, Erlang, Python
+**Languages:** Ruby, Elixir, Go, Javascript, Lua, Erlang, Python
 
-**Web:** Rails, HTML/CSS/Sass, Rack, Sinatra, Node.js, React, Angular
+**Web:** Rails, Phoenix, HTML/CSS/Sass, Rack, Sinatra, Node.js
 
 **Testing:** RSpec, Capybara, Cucumber, EUnit
 
 **Servers:** Apache, nginx
 
-**Datastores:** MySQL, PostgreSQL, Redis, memcached, ETS
+**Datastores:** MySQL, PostgreSQL, Redis, Dynamodb, ETS
 
 **Operating Systems:** Linux, OS X, Windows
 
-**Misc.:** Security, performance
+**Misc.:** Security, performance, AWS
 
 
 ### Professional Experience
