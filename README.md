@@ -101,6 +101,9 @@ duplicate data, invalid data, etc.
   - Satisfied ease of use requirements while allowing custom building by internal admins
 
 ### Personal Projects
+#### Go (lang) Server
+- Handle multiple client connections Implements game rules and synchronizes with clients Reasonably full featured (account creation, authorization, database, basics of playable game) 
+
 #### Game Client/Server
 ###### Client
 - Written in C++, uses Lua for scripting/configuration
