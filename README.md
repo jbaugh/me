@@ -18,8 +18,36 @@ I love to solve problems and learn new things. I enjoy learning new programming 
 
 
 ### Professional Experience
+#### Current, Senior Software Engineer
+###### September 2019 - present
+- ...
+
+#### Caremessage, Software Engineer
+###### March 2017 - September 2019
+- Wrote scalale code
+  - Processed and worked with millions of records
+  - Use background processing to interact with 3rd party APIs and process data
+  - Flexible API could join several tables, and response must be kept low
+- Secure code
+  - HIPAA compliance to protect privacy of patients
+  - Use of brakeman and other audits to maintain security
+- Reliable code
+  - Medical offices depend on this application so reliability was a priority
+- Worked on upgrading Rails 4 to Rails 5
+- Maintained different public API versions
+- Worked with Twilio to send text/voice messages, process responses
+- **Project:** Appointments
+  - Worked with existing feature foundation to extend and improve usability
+  - Improved performance by reworking queries, caching appropriately
+  - Balanced product requirements with engineering requirements
+  - Delivered features on time while slowly reducing technical debt
+- **Project:** File center
+  - Improved usability by reducing some possibility of user errors by properly handling
+duplicate data, invalid data, etc.
+  - Improved performance by using business rules to catch validation issues before heavy processing
+
 #### Leaseful, Lead Software Developer
-###### April 2016 - Present
+###### April 2016 - December 2018
 - Python (Django) application converted to Ruby on Rails
 - Test Driven with emphasis on maintainability
 - Reduced page load time from ~3 seconds to ~200ms
