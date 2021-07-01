@@ -20,7 +20,15 @@ I love to solve problems and learn new things. I enjoy learning new programming 
 ### Professional Experience
 #### Current, Senior Software Engineer
 ###### September 2019 - present
+- Reduced costs by optimizing database queries, code and architecture
+- Built robust, scalable systems using AWS (EC2 with auto scaling groups, Kinesis, Lambdas, SQS)
+- Increased API performance and reliability
+- **Project:** Charge screen
+  - Allowed users to earn points while charging their phone
+  - Built a solution that scales with our user growth
+  - Built security into the solution to prevent fraud
 - ...
+
 
 #### Caremessage, Software Engineer
 ###### March 2017 - September 2019
