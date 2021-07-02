@@ -27,7 +27,8 @@ I love to solve problems and learn new things. I enjoy learning new programming 
   - Allowed users to earn points while charging their phone
   - Built a solution that scales with our user growth
   - Built security into the solution to prevent fraud
-- ...
+- **Project:** Influencer experience improvement
+  - .. 
 
 
 #### Caremessage, Software Engineer
