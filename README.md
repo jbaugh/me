@@ -74,7 +74,7 @@ duplicate data, invalid data, etc.
 - Integrated with Braintree (merchant accounts)
 
 #### BiggerPockets, Software Developer
-###### October 2013 - Present
+###### October 2013 - March 2017
 - Rails 3 converted to Rails 4 
 - Wrote scalable, secure and reliable code to handle the rapid traffic growth
 - Worked closely with billing system using Stripe
