@@ -10,11 +10,11 @@ I love to solve problems and learn new things. I enjoy learning new programming 
 
 **Servers:** Apache, nginx
 
-**Datastores:** MySQL, PostgreSQL, Redis, Dynamodb, ETS
+**Datastores:** PostgreSQL, MySQL, Dynamodb, Redis, ETS
 
 **Operating Systems:** Linux, OS X, Windows
 
-**Misc.:** Security, performance, AWS
+**Misc.:** Performance and scalability, Security, AWS
 
 
 ### Professional Experience
