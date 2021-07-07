@@ -27,9 +27,20 @@ I love to solve problems and learn new things. I enjoy learning new programming 
   - Allowed users to earn points while charging their phone
   - Built a solution that scales with our user growth
   - Built security into the solution to prevent fraud
+  - Uses redis heavily to keep it fast and efficient
 - **Project:** Influencer experience improvement
-  - .. 
-
+  - Architected a solution to improve system performance while also improving the experience for power users
+  - Worked without issue since implementation
+- **Project:** Performance improvements
+  - Re-architected code so that we could remove unnecessary database locks
+  - Improved third party integrations to eliminate unnecessary database updates (autovacuums became a problem)
+  - Improved transaction code so that user updates were quicker
+  - Added caching using redis
+  - Improved database queries (examples: adding indexes, reworking queries based on performance tests, changing database schema to better fit our use case)
+- **Project:** Revenue reporting tool
+  - Integrated with advertising partners to collect revenue data in one place
+  - Built a fault-tolerant application to better handle third party API failures
+  - Worked with product team to integrate into AWS QuickSight for better data exploration
 
 #### Caremessage, Software Engineer
 ###### March 2017 - September 2019
