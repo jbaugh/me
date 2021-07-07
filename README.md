@@ -21,7 +21,7 @@ I love to solve problems and learn new things. I enjoy learning new programming 
 #### Current, Senior Software Engineer
 ###### September 2019 - present
 - Reduced costs by optimizing database queries, code and architecture
-- Built robust, scalable systems using AWS (EC2 with auto scaling groups, Kinesis, Lambdas, SQS)
+- Built robust, scalable systems using AWS (EC2 with auto scaling groups, Kinesis, Lambdas, SQS, Dynamodb)
 - Increased API performance and reliability
 - **Project:** Charge screen
   - Allowed users to earn points while charging their phone
