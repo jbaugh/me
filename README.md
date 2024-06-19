@@ -2,27 +2,24 @@
 I love to solve problems and learn new things. I enjoy learning new programming languages and challenging myself. I'm especially interested in fault tolerance and high scalability architecture.
 
 ### Technical Skills
-**Languages:** Ruby, Elixir, Go, Javascript, Lua, Erlang, Python
+**Languages:** Ruby, Elixir, Go, Javascript/Typescript, Python
 
-**Web:** Rails, Phoenix, HTML/CSS/Sass, Rack, Sinatra, Node.js
-
-**Testing:** RSpec, Capybara, Cucumber, EUnit
-
-**Servers:** Apache, nginx
+**Web:** Rails, Phoenix, Node.js
 
 **Datastores:** PostgreSQL, MySQL, Dynamodb, Redis, ETS
 
-**Operating Systems:** Linux, OS X, Windows
-
-**Misc.:** Performance and scalability, Security, AWS
-
 
 ### Professional Experience
-#### Current, Senior Software Engineer
+#### ModeMobile, Staff Software Engineer
 ###### September 2019 - present
+- Primarily Ruby on Rails with Node.js applications (mostly NestJS)
 - Reduced costs by optimizing database queries, code and architecture
-- Built robust, scalable systems using AWS (EC2 with auto scaling groups, Kinesis, Lambdas, SQS, Dynamodb)
+- Built robust, scalable systems using AWS (EC2, ECS(Fargate), Kinesis, Lambdas, SQS, Dynamodb)
 - Increased API performance and reliability
+- Led backend team to more efficient workflow, code quality improvements, better team cohesions
+- **Project:** Ad mediation API
+  - Scalable, simple and fast NestJS application deployed on EC2 with autoscaling
+  - Served ads based on user data (demographics, ad limits, placement)
 - **Project:** Charge screen
   - Allowed users to earn points while charging their phone
   - Built a solution that scales with our user growth
@@ -119,44 +116,6 @@ duplicate data, invalid data, etc.
   - Drag and drop design (using some jQuery UI but also custom plugins)
   - Site was made up of components which allowed very rich designs
   - Satisfied ease of use requirements while allowing custom building by internal admins
-
-### Personal Projects
-#### Go(lang) Server
-- Handle multiple client connections
-- Implements game rules and synchronizes with clients
-- Reasonably full featured (account creation, authorization, database, basics of playable game) 
-
-#### Game Client/Server
-###### Client
-- Written in C++, uses Lua for scripting/configuration
-- Winsock for networking
-- DirectX for graphics
-- Boost for threads
-- irrKlang for audio
-- Full featured (sprite paperdolling, animations, control handling, shaders, world generation, GUI, networking)
-
-###### Server (C++)
-- Written in C++ and uses MySQL
-- Winsock for networking
-- Developed a task scheduler to efficiently prioritize important tasks (network input)
-- Utilizes smart world management (only 'things' near a player should be processed)
-- Full featured (request handling, account creation/authentication, database integration, NPC spawning an AI, player abilities, combat, quests, crafting)
-
-###### Server (Erlang)
-- Written in Erlang and uses MySQL
-- Uses OTP and an extremely fault tolerant design
-- Contains a feature subset of the C++ Server
-
-#### Application Updater
-- Written C++ and uses Boost
-- Cross platform
-- Dynamically determines which files are out of date and only downloads the missing or out of date files
-- Works against a web server
-
-#### OctopusCI
-- Written in Ruby
-- Attempted to solve continuous integration for multi-branch workflows (using smart queueing, distributed testing servers and Github integration)
-- At the time, it worked well, but there are far better solutions now
 
 ### Education
 ###### University of California, Irvine
