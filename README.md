@@ -117,6 +117,19 @@ duplicate data, invalid data, etc.
   - Site was made up of components which allowed very rich designs
   - Satisfied ease of use requirements while allowing custom building by internal admins
 
+#### Side Projects
+##### Fundraising Site
+- Written in Elixir with Phoenix
+- Supports local schools with fundraising challenges
+- Team, member and event management including donation goals and rewards
+- Inspired by a family member's struggle to find good, affordable software to meet their needs
+
+##### Online Game Server
+- Written in Go
+- Networked server (using sockerts) supporting clients playing an online game
+- Uses channels for event based architecture
+- Fully featured game including combat, leveling, spells, items and more.
+
 ### Education
 ###### University of California, Irvine
 ###### BSc in Computer Science
